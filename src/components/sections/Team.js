@@ -1,11 +1,11 @@
 import React, { lazy, Suspense } from 'react'
 import styled from 'styled-components';
 
-import img1 from '../../assets/Nfts/meme-9.svg';
+import img1 from '../../assets/Nfts/meme-16.svg';
 import img2 from '../../assets/Nfts/meme-1.svg';
-import img3 from '../../assets/Nfts/meme-2.svg';
-import img4 from '../../assets/Nfts/meme-3.svg';
-import img5 from '../../assets/Nfts/meme-4.svg';
+import img3 from '../../assets/Nfts/meme-12.svg';
+import img4 from '../../assets/Nfts/meme-11.svg';
+import img5 from '../../assets/Nfts/meme-14.svg';
 import img6 from '../../assets/Nfts/meme-5.svg';
 import img7 from '../../assets/Nfts/meme-6.svg';
 import img8 from '../../assets/Nfts/meme-7.svg';
@@ -144,10 +144,10 @@ const Team = () => {
       <Container>
         <MemberComponent img={img2}  name="PEPE" position="" />
         <MemberComponent img={img8}  name="DOODLES" position="" />
-        <MemberComponent img={img3}  name="BAYC" position="" />
+        <MemberComponent img={img3}  name="KEVIN" position="" />
         <MemberComponent img={img4}  name="CRYPTOPUNKS" position="" />
         <MemberComponent img={img5}  name="MIKABISHU" position="" />
-        <MemberComponent img={img6}  name="COCO" position="" />
+        <MemberComponent img={img6}  name="TUNGSTEN CUBE" position="" />
         <MemberComponent img={img9}  name="KEKO" position="" />
         <MemberComponent img={img1}  name="NOUNS" position="" />
         <MemberComponent img={img7}  name="SHREDDING SASSY" position="" />
