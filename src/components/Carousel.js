@@ -10,7 +10,7 @@ import "swiper/css/navigation";
 
 import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
 
-import img1 from '../assets/Nfts/bighead.svg';
+import img1 from '../assets/Nfts/meme-1.svg';
 import img2 from '../assets/Nfts/bighead-1.svg';
 import img3 from '../assets/Nfts/bighead-2.svg';
 import img4 from '../assets/Nfts/bighead-3.svg';
