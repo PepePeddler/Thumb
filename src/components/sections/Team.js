@@ -142,8 +142,8 @@ const Team = () => {
     <ConfettiComponent  /> </Suspense>
       <Title>Memes</Title>
       <Container>
-        <MemberComponent img={img1}  name="PEPE" position="founder" />
-        <MemberComponent img={img2}  name="DOODLES" position="Co-Founder" />
+        <MemberComponent img={img1}  name="PEPE" position="The frog we all know and love" />
+        <MemberComponent img={img2}  name="DOODLES" position="" />
         <MemberComponent img={img3}  name="BAYC" position="Director" />
         <MemberComponent img={img4}  name="CRYPTOPUNKS" position="manager" />
         <MemberComponent img={img5}  name="MIKABISHU" position="artist" />
