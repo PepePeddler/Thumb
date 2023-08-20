@@ -166,6 +166,9 @@ const Team = () => {
         <MemberComponent img={img14}  name="LASER EYES" position="" />
         <MemberComponent img={img15}  name="NPC" position="" />
         <MemberComponent img={img16}  name="COCO" position="" />
+        <MemberComponent img={img17}  name="RETRO GAMING" position="" />
+        <MemberComponent img={img1}  name="SUPER HEROS" position="" />
+        <MemberComponent img={img7}  name="SOUTH PARK" position="" />
 
       </Container>
     </Section>
