@@ -147,10 +147,10 @@ const Team = () => {
         <MemberComponent img={img3}  name="BAYC" position="" />
         <MemberComponent img={img4}  name="CRYPTOPUNKS" position="" />
         <MemberComponent img={img5}  name="MIKABISHU" position="" />
-        <MemberComponent img={img6}  name="COCO" position="social media manager" />
-        <MemberComponent img={img9}  name="KEKO" position="Blockchain Specialist" />
-        <MemberComponent img={img1}  name="NOUNS" position="Web3 Developer" />
-        <MemberComponent img={img7}  name="SHREDDING SASSY" position="Graphic Designer" />
+        <MemberComponent img={img6}  name="COCO" position="" />
+        <MemberComponent img={img9}  name="KEKO" position="" />
+        <MemberComponent img={img1}  name="NOUNS" position="" />
+        <MemberComponent img={img7}  name="SHREDDING SASSY" position="" />
 
       </Container>
     </Section>
