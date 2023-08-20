@@ -164,7 +164,7 @@ const About = () => {
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="FOLLOW ON X.COM" link="#" />
+        <Button text="MINT A ME-ME" link="#" />
         </ThemeProvider>
         </ButtonContainer>
          </Box>
