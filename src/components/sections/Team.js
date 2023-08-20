@@ -17,7 +17,7 @@ import img13 from '../../assets/Nfts/meme-4.svg';
 import img14 from '../../assets/Nfts/meme-10.svg';
 import img15 from '../../assets/Nfts/meme-13.svg';
 import img16 from '../../assets/Nfts/meme-15.svg';
-import img17 from '../../assets/Nfts/meme-16.svg';
+import img17 from '../../assets/Nfts/meme-18.svg';
 import img18 from '../../assets/Nfts/meme-17.svg';
 import Loading from '../Loading';
 // import ConfettiComponent from '../Confetti';
