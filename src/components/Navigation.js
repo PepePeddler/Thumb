@@ -156,7 +156,7 @@ const Navigation = () => {
         <Menu click={click}>
           <MenuItem onClick={() => scrollTo("home")}>Home</MenuItem>
           <MenuItem onClick={() => scrollTo("about")}>About</MenuItem>
-          <MenuItem onClick={() => scrollTo("team")}>Team</MenuItem>
+          <MenuItem onClick={() => scrollTo("team")}>MeMes</MenuItem>
           <MenuItem onClick={() => scrollTo("faq")}>Faq</MenuItem>
           <MenuItem>
             <div className="mobile">
