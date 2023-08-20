@@ -177,11 +177,11 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Weirdos Club. All rights reserved.
+          &copy; {new Date().getFullYear()} Me-Me's. All rights reserved.
         </span>
         <span>
-          Made with &#10084; by <a href="https://devdreaming.com/about" target="_blank" rel="dofollow noreferrer">
-            CodeBucks
+          Made with &#10084; by <a href="https://memeslabs.com" target="_blank" rel="dofollow noreferrer">
+            Memes
           </a>
         </span>
       </Bottom>
