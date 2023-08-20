@@ -11,14 +11,14 @@ import "swiper/css/navigation";
 import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
 
 import img1 from '../assets/Nfts/meme-1.svg';
-import img2 from '../assets/Nfts/meme-1.svg';
+import img2 from '../assets/Nfts/meme-11.svg';
 import img3 from '../assets/Nfts/meme-2.svg';
-import img4 from '../assets/Nfts/meme-3.svg';
+import img4 from '../assets/Nfts/meme-13.svg';
 import img5 from '../assets/Nfts/meme-4.svg';
-import img6 from '../assets/Nfts/meme-5.svg';
-import img7 from '../assets/Nfts/meme-6.svg';
+import img6 from '../assets/Nfts/meme-15.svg';
+import img7 from '../assets/Nfts/meme-16.svg';
 import img8 from '../assets/Nfts/meme-7.svg';
-import img9 from '../assets/Nfts/meme-8.svg';
+import img9 from '../assets/Nfts/meme-18.svg';
 import img10 from '../assets/Nfts/meme-9.svg';
 
 import Arrow from '../assets/Arrow.svg';
@@ -138,16 +138,16 @@ const Carousel = () => {
         
         className="mySwiper"
       >
-        <SwiperSlide>  <img width={500} height={400}  src={img1} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img2} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img3} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img4} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img5} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img6} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img7} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img8} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img9} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img10} alt="The Weirdos" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img1} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img2} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img3} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img4} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img5} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img6} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img7} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img8} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img9} alt="Me-Mes" />   </SwiperSlide>
+        <SwiperSlide>  <img width={500} height={400}  src={img10} alt="Me-Mes" />   </SwiperSlide>
 
       </Swiper>
     </Container>
