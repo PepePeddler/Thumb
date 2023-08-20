@@ -13,7 +13,6 @@ import { ThemeProvider } from "styled-components";
 // const Home = lazy(() => import("./components/sections/Home"));
 // const About = lazy(() => import("./components/sections/About"));
 // const Team = lazy(() => import("./components/sections/Team"));
-// const Showcase = lazy(() => import("./components/sections/Showcase"));
 // const Faq = lazy(() => import("./components/sections/Faq"));
 // const Footer = lazy(() => import("./components/Footer"));
 // const ScrollToTop = lazy(() => import("./components/ScrollToTop"));
@@ -23,7 +22,6 @@ import About from "./components/sections/About";
 import Home from "./components/sections/Home";
 import Team from "./components/sections/Team";
 import Footer from "./components/Footer";
-import Showcase from "./components/sections/Showcase";
 import Faq from "./components/sections/Faq";
 import ScrollToTop from "./components/ScrollToTop";
 
