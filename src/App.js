@@ -12,7 +12,6 @@ import { ThemeProvider } from "styled-components";
 // const Navigation = lazy(() => import("./components/Navigation"));
 // const Home = lazy(() => import("./components/sections/Home"));
 // const About = lazy(() => import("./components/sections/About"));
-// const Roadmap = lazy(() => import("./components/sections/Roadmap"));
 // const Team = lazy(() => import("./components/sections/Team"));
 // const Showcase = lazy(() => import("./components/sections/Showcase"));
 // const Faq = lazy(() => import("./components/sections/Faq"));
@@ -22,7 +21,6 @@ import { ThemeProvider } from "styled-components";
 import Navigation from "./components/Navigation";
 import About from "./components/sections/About";
 import Home from "./components/sections/Home";
-import Roadmap from "./components/sections/Roadmap";
 import Team from "./components/sections/Team";
 import Footer from "./components/Footer";
 import Showcase from "./components/sections/Showcase";
@@ -38,7 +36,6 @@ function App() {
           <Navigation />
           <Home />
           <About />
-          <Roadmap />
           <Showcase />
           <Team />
           <Faq />
