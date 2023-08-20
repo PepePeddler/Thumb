@@ -136,7 +136,7 @@ let pause = (e) => {
       <img width={500} height={400}  src={img} alt="The Weirdos" />
       <Details>
         <div>
-          <span>Weirdos</span> <br />
+          <span>Me-me</span> <br />
           <h1>#{number}</h1>
         </div>
 
@@ -161,11 +161,16 @@ const Showcase = () => {
   return(
     <Section id="showcase">
     <Row direction="none" ref={Row1Ref}>
-      <NftItem img={img1}  number={852} price={1}   passRef = {Row1Ref} />
-      <NftItem img={img2}  number={123} price={1.2}   passRef = {Row1Ref} />
-      <NftItem img={img3}  number={456} price={2.5}   passRef = {Row1Ref} />
-      <NftItem img={img4}  number={666} price={3.5}   passRef = {Row1Ref} />
-      <NftItem img={img5}  number={452} price={4.7}   passRef = {Row1Ref} />
+      <NftItem img={img1}  number={1} price={1}   passRef = {Row1Ref} />
+      <NftItem img={img2}  number={2} price={1.2}   passRef = {Row1Ref} />
+      <NftItem img={img3}  number={3} price={2.5}   passRef = {Row1Ref} />
+      <NftItem img={img4}  number={4} price={3.5}   passRef = {Row1Ref} />
+      <NftItem img={img5}  number={5} price={4.7}   passRef = {Row1Ref} />
+      <NftItem img={img1}  number={6} price={1}   passRef = {Row1Ref} />
+      <NftItem img={img2}  number={7} price={1.2}   passRef = {Row1Ref} />
+      <NftItem img={img3}  number={8} price={2.5}   passRef = {Row1Ref} />
+      <NftItem img={img4}  number={9} price={3.5}   passRef = {Row1Ref} />
+      <NftItem img={img5}  number={10} price={4.7}   passRef = {Row1Ref} />
 
 
     </Row>
