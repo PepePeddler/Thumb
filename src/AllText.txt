@@ -1,6 +1,6 @@
 Home Section:
 
-Discover A New Era Of Cool
+Me Me's are the culture!
 NFTs.
 Collectible items.
 Ape Killers!
@@ -8,8 +8,8 @@ Ape Killers!
 
 About Section:
 
-- Welcome To The Weirdos Club.
-- The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
+- Meet your Me Me's.
+- Me Me's are a collection of Nft Pixel At Characters.
 - With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
 - Join Our Discord
 
