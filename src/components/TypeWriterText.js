@@ -77,7 +77,7 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-      Find your me-me!
+      There's a Me-me for everyone!
       <Typewriter
         options={{
           autoStart: true,
