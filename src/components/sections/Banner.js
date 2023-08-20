@@ -154,9 +154,9 @@ const Banner = () => {
         <img src={img6} width="500" height="400"  alt="Me Mes" />
 
         </ImgContainer>
-        <Title>Join the
+        <Title>These are the
         <br/>
-        Me Mes
+        Me Mes Now!
         </Title>
         <BtnContainer>
         <JoinNow>
