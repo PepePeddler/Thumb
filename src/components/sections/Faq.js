@@ -98,15 +98,15 @@ useLayoutEffect(() => {
     <Container>
 
 <Box>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHERE CAN I VIEW MY NFTS?" >
-  Once minted or bought simply connect to your OpenSea account to view your NFTs.
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHY ARE THEY BUILT ON BASE?" >
+  Base needed a better meme collection.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE METAVERSE?" >
-  A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHO CREATED THIS?" >
+  Jake AKA @PepePeddler, meme creator of the original Cryptopunkpepes and founder of "Shredding Sassy"
 
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHY DO WE NEED ROYALTIES?" >
-  The amount of royalties was fixed at 5% to finance the Weirdos Club's projects. We have the ambition to organize multiple events around the world in order to strengthen the community and build a network of entrepreneurs and investors with the same mindset and common interests.
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHEN ?" >
+  
   </Accordion>
 </Box>
 <Box>
