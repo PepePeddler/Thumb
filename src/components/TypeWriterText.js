@@ -77,7 +77,7 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-      Discover a new era of cool
+      Find your me-me!
       <Typewriter
         options={{
           autoStart: true,
@@ -85,13 +85,13 @@ const TypeWriterText = () => {
         }}
         onInit={(typewriter) => {
           typewriter
-            .typeString(`<span class="text-1">NFTs.</span>`)
+            .typeString(`<span class="text-1">Pepe.</span>`)
             .pauseFor(2000)
             .deleteAll()
-            .typeString(`<span class="text-2">Collectible Items.</span>`)
+            .typeString(`<span class="text-2">Nouns.</span>`)
             .pauseFor(2000)
             .deleteAll()
-            .typeString(`<span class="text-3">Ape Killers!</span>`)
+            .typeString(`<span class="text-3">Tungsten Dao.</span>`)
             .pauseFor(2000)
             .deleteAll()
             .start();
@@ -99,7 +99,7 @@ const TypeWriterText = () => {
       />
       
     </Title>
-    <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+    <SubTitle>Don't take it too seriously, they're Just Me-Mes! .</SubTitle>
     <ButtonContainer>
     <Button text="Explore" link="#about" />
     </ButtonContainer>
