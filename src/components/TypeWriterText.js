@@ -77,7 +77,7 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-      There's a Me-me for everyone!
+      May the A Me-me be with you!
       <Typewriter
         options={{
           autoStart: true,
@@ -99,7 +99,7 @@ const TypeWriterText = () => {
       />
       
     </Title>
-    <SubTitle>Don't take it too seriously, they're Just Me-Mes! .</SubTitle>
+    <SubTitle>Don't take it too seriously, they're Just Me-Mes.</SubTitle>
     <ButtonContainer>
     <Button text="Explore" link="#about" />
     </ButtonContainer>
