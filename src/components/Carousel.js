@@ -16,7 +16,7 @@ import img3 from '../assets/Nfts/meme-18.svg';
 import img4 from '../assets/Nfts/meme-13.svg';
 import img5 from '../assets/Nfts/meme-24.svg';
 import img6 from '../assets/Nfts/meme-25.svg';
-import img7 from '../assets/Nfts/meme-26.svg';
+import img7 from '../assets/Nfts/meme-22.svg';
 import img8 from '../assets/Nfts/meme-7.svg';
 import img9 from '../assets/Nfts/meme-18.svg';
 import img10 from '../assets/Nfts/meme-9.svg';
