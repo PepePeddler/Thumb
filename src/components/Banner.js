@@ -1,12 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import img1 from '../assets/Nfts/meme-1.png';
-import img2 from '../assets/Nfts/meme-1.png';
-import img3 from '../assets/Nfts/meme-1.png';
-import img4 from '../assets/Nfts/meme-1.png';
-import img5 from '../assets/Nfts/meme-1.png';
-import img6 from '../assets/Nfts/meme-1.png';
+import img1 from '../assets/Nfts/bighead.svg';
+import img2 from '../assets/Nfts/bighead-1.svg';
+import img3 from '../assets/Nfts/bighead-2.svg';
+import img4 from '../assets/Nfts/bighead-3.svg';
+import img5 from '../assets/Nfts/bighead-4.svg';
+import img6 from '../assets/Nfts/bighead-5.svg';
 
 const Section = styled.section`
 width: 100vw;
@@ -149,11 +149,9 @@ const Banner = () => {
         </ImgContainer>
         <Title>Join the  <br /> weirdos club  </Title>
         <BtnContainer>
-        <a href="https://www.discord.com" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
         <JoiNow>
             Join Now
         </JoiNow>
-        </a>
 
         </BtnContainer>
     </Section>

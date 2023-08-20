@@ -54,8 +54,8 @@ const Round = styled.div`
 position: absolute;
 bottom: 2rem;
 right: 90%;
-width: 7rem;
-height: 7rem;
+width: 6rem;
+height: 6rem;
 border: 1px solid ${props => props.theme.text};
 border-radius: 50%;
 
@@ -80,8 +80,8 @@ img{
 
 
 const Circle = styled.span`
-width: 3.5rem;
-height: 3.5rem;
+width: 3rem;
+height: 3rem;
 display: flex;
 justify-content: center;
 align-items: center;

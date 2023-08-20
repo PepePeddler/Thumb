@@ -62,10 +62,8 @@ align-content: center;
 const Box = styled.div`
 width: 45%;
 @media (max-width: 64em){
-  align-self: center;
-  }
-  @media (max-width: 48em){
   width: 90%;
+  align-self: center;
   }
 
 `

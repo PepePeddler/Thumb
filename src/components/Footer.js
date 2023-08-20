@@ -31,7 +31,6 @@ margin: 2rem auto;
 display: flex;
 justify-content: space-between;
 align-items: center;
-font-size: ${props => props.theme.fontlg};
 
 border-bottom: 1px solid ${(props) => props.theme.text};
 
@@ -104,8 +103,6 @@ margin: 0 auto;
 display: flex;
 justify-content: space-between;
 align-items: center;
-font-size: ${props => props.theme.fontlg};
-
 
 a{
   text-decoration:underline;
@@ -113,7 +110,6 @@ a{
 @media (max-width: 48em) {
 flex-direction: column;
 width: 100%;
-font-size: ${props => props.theme.fontmd};
 
 span{
   margin-bottom: 1rem;
@@ -162,7 +158,7 @@ const Footer = () => {
       >
         <Twitter />
       </a>
-      <a href="http://linkedin.com" target='_blank' 
+      <a href="https://www.linkedin.com/in/codebucks/" target='_blank' 
       rel="noopener noreferrer"
       aria-label='linkedin'
       >
@@ -185,7 +181,7 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} Weirdos Club. All rights reserved.
         </span>
         <span>
-          Made with &#10084; by <a href="http://youtube.com/codebucks" target="_blank"  rel="noopener noreferrer">
+          Made with &#10084; by <a href="https://devdreaming.com/about" target="_blank" rel="dofollow noreferrer">
             CodeBucks
           </a>
         </span>

@@ -138,7 +138,7 @@ const ButtonContainer = styled.div`
   @media (max-width: 64em){
 width: 100%;
 
-a{
+button{
   margin: 0 auto;
 }
 }
@@ -164,7 +164,7 @@ const About = () => {
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="JOIN OUR DISCORD" link="https://google.com" />
+        <Button text="JOIN OUR DISCORD" link="#" />
         </ThemeProvider>
         </ButtonContainer>
          </Box>

@@ -10,7 +10,7 @@ color: ${props => props.theme.body};
 outline: none;
 border: none;
 
-font-size: ${props => props.theme.fontmd};
+font-size: ${props => props.theme.fontsm};
 padding: 0.9rem 2.3rem;
 border-radius: 50px;
 cursor: pointer;
@@ -37,21 +37,15 @@ position: relative;
     transform: translate(-50%, -50%) scale(1);
     padding: 0.3rem;
 }
-
-@media (max-width: 48em) {
-font-size: ${props => props.theme.fontsm};
-
-}
 `
 
 const Button = ({text, link}) => {
   return (
-    
+    <Btn>
 <a href={link} aria-label={text} target="_blank" rel="noreferrer" >
-<Btn>
 {text}
-</Btn>
 </a>
+    </Btn>
   )
 }
 

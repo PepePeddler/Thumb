@@ -19,31 +19,18 @@ margin: 3rem 0;
 }
 `
 const Title = styled.div`
-font-size: ${props => props.theme.fontmd};
+font-size: ${props => props.theme.fontsm};
 display: flex;
 justify-content: space-between;
 align-items: center;
-
-
-@media (max-width: 48em){
-    font-size: ${props => props.theme.fontsm};
-
-
-}
 `
 const Reveal = styled.div`
 display: ${props => props.clicked ? 'inline-block' : 'none'};
 margin-top: 1rem;
 color: ${props => `rgba(${props.theme.bodyRgba}, 0.6)` };
-font-size: ${props => props.theme.fontmd};
+font-size: ${props => props.theme.fontsm};
 font-weight: 300;
 line-height: 1.1rem;
-
-@media (max-width: 48em){
-    font-size: ${props => props.theme.fontsm};
-
-
-}
 `
 
 const Name = styled.div`

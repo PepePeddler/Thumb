@@ -1,15 +1,15 @@
 import React, { lazy, Suspense } from 'react'
 import styled from 'styled-components';
 
-import img1 from '../../assets/Nfts/meme-10.svg';
-import img2 from '../../assets/Nfts/meme-1.svg';
-import img3 from '../../assets/Nfts/meme-2.svg';
-import img4 from '../../assets/Nfts/meme-3.svg';
-import img5 from '../../assets/Nfts/meme-4.svg';
-import img6 from '../../assets/Nfts/meme-5.svg';
-import img7 from '../../assets/Nfts/meme-6.svg';
-import img8 from '../../assets/Nfts/meme-7.svg';
-import img9 from '../../assets/Nfts/meme-8.svg';
+import img1 from '../../assets/Nfts/bighead.svg';
+import img2 from '../../assets/Nfts/bighead-1.svg';
+import img3 from '../../assets/Nfts/bighead-2.svg';
+import img4 from '../../assets/Nfts/bighead-3.svg';
+import img5 from '../../assets/Nfts/bighead-4.svg';
+import img6 from '../../assets/Nfts/bighead-5.svg';
+import img7 from '../../assets/Nfts/bighead-6.svg';
+import img8 from '../../assets/Nfts/bighead-7.svg';
+import img9 from '../../assets/Nfts/bighead-8.svg';
 import Loading from '../Loading';
 // import ConfettiComponent from '../Confetti';
 
@@ -151,7 +151,6 @@ const Team = () => {
         <MemberComponent img={img7}  name="CYBER PUNK" position="Blockchain Specialist" />
         <MemberComponent img={img8}  name="MONK" position="Web3 Developer" />
         <MemberComponent img={img9}  name="BANANA" position="Graphic Designer" />
-        <MemberComponent img={img4}  name="BLACK PANTHER" position="manager" />
         
 
       </Container>
