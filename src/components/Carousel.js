@@ -10,13 +10,13 @@ import "swiper/css/navigation";
 
 import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
 
-import img1 from '../assets/Nfts/meme-1.svg';
+import img1 from '../assets/Nfts/meme-20.svg';
 import img2 from '../assets/Nfts/meme-11.svg';
-import img3 from '../assets/Nfts/meme-2.svg';
+import img3 from '../assets/Nfts/meme-18.svg';
 import img4 from '../assets/Nfts/meme-13.svg';
-import img5 from '../assets/Nfts/meme-4.svg';
-import img6 from '../assets/Nfts/meme-15.svg';
-import img7 from '../assets/Nfts/meme-16.svg';
+import img5 from '../assets/Nfts/meme-24.svg';
+import img6 from '../assets/Nfts/meme-25.svg';
+import img7 from '../assets/Nfts/meme-26.svg';
 import img8 from '../assets/Nfts/meme-7.svg';
 import img9 from '../assets/Nfts/meme-18.svg';
 import img10 from '../assets/Nfts/meme-9.svg';
