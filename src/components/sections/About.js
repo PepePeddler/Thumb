@@ -154,17 +154,17 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Weirdos Club.
+        Meet Your <br /> Me Me's
         </Title>
         <SubText>
-        The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
+        The Me Me's are a fun collection of 6969 digital collectibles. Every me me is unique!
         </SubText>
         <SubTextLight>
-        With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
+        Made up of more than 150+ hand made traits.
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="JOIN OUR DISCORD" link="#" />
+        <Button text="FOLLOW ON X.COM" link="#" />
         </ThemeProvider>
         </ButtonContainer>
          </Box>
