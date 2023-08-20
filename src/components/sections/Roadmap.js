@@ -220,8 +220,8 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Grand Opening"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Mint 6969 Me-me's"
+            subtext="First we have to mint the me-mes"
           />
           <RoadMapItem
             addToRef={addToRefs}
