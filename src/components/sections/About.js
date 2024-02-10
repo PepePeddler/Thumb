@@ -154,10 +154,10 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Meet Your <br /> Me Me's
+        Leave your <br /> Mark
         </Title>
         <SubText>
-        The Me Me's are a fun collection of 6969 digital collectibles. Every me me is unique!
+        6969 Me Me's made for the Aurtistic community!
         </SubText>
         <SubTextLight>
         Made up of more than 150+ hand made traits.
