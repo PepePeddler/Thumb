@@ -154,13 +154,13 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Leave your <br /> Mark
+        Leave your Mark
         </Title>
         <SubText>
         6969 Me Me's made for the Aurtistic community!
         </SubText>
         <SubTextLight>
-        Made up of more than 150+ hand made traits.
+        Made up of more than 150+ mostly stolen idea traits, for you to really feel connected!
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
