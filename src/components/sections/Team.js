@@ -149,7 +149,7 @@ const Team = () => {
     <Section id="team">
     <Suspense fallback={<Loading />}>
     <ConfettiComponent  /> </Suspense>
-      <Title>Memes</Title>
+      <Title>Choose your player</Title>
       <Container>
         <MemberComponent img={img2}  name="PEPE" position="" />
         <MemberComponent img={img8}  name="DOODLES" position="" />
