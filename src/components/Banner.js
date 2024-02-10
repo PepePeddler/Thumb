@@ -1,4 +1,4 @@
-import React from 'react'
+ge import React from 'react'
 import styled from 'styled-components'
 
 import img1 from '../assets/Nfts/meme-8.svg';
@@ -147,7 +147,7 @@ const Banner = () => {
             <img width={500} height={400}  src={img6} alt="Me-Mes" />
 
         </ImgContainer>
-        <Title>Leave your mark, make more memes <br /> Me-Mes  </Title>
+        <Title>Make some change, make memes <br /> Earn ETH </Title>
         <BtnContainer>
         <JoiNow>
             Mint your Me-Me
