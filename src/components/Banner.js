@@ -147,7 +147,7 @@ const Banner = () => {
             <img width={500} height={400}  src={img6} alt="Me-Mes" />
 
         </ImgContainer>
-        <Title>Make some change, make memes <br /> Earn ETH </Title>
+        <Title> Make some change, make memes <br /> Earn ETH </Title>
         <BtnContainer>
         <JoiNow>
             Mint your Me-Me
