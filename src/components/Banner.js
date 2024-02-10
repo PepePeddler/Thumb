@@ -147,10 +147,10 @@ const Banner = () => {
             <img width={500} height={400}  src={img6} alt="Me-Mes" />
 
         </ImgContainer>
-        <Title>Make the most of your <br /> Me-Mes  </Title>
+        <Title>Leave your mark, make more memes <br /> Me-Mes  </Title>
         <BtnContainer>
         <JoiNow>
-            Mint a Me-Me
+            Mint your Me-Me
         </JoiNow>
 
         </BtnContainer>
