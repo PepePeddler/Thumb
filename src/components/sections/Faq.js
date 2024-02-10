@@ -99,27 +99,22 @@ useLayoutEffect(() => {
 
 <Box>
   <Accordion ScrollTrigger={ScrollTrigger} title="WHY ARE THEY BUILT ON BASE?" >
-  Base needed a better meme collection.
+  Base lets everyone mint memes for almost free. Plus its likely a shit ton of normies will be onboared through it... with meme marketing.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHO CREATED THIS?" >
-  Jake AKA @PepePeddler, meme creator of the original Cryptopunkpepes and founder of "Shredding Sassy"
-
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT DO THEY DO?" >
+    At the moment you get a cool thumb looking thing to meme with and leave your print, on your memes + a community of aurtistic, memers.
+    
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="WHEN ?" >
-  
+  Me-me's mint will launch on x/x/xx
+Meme Creators - XPM - XPM
+Allow List - XPM - XPM
+  Public - XPM - XPM
   </Accordion>
 </Box>
 <Box>
-<Accordion ScrollTrigger={ScrollTrigger} title="HOW CAN I USE MY NFT?" >
-You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs.
-  </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE WEIRDOS?
-" >
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in.
-  </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE FUSION PROCESS?
-" >
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem, maxime, similique neque minus aliquam dolore doloremque laboriosam, facilis quibusdam unde sint officia.
+<Accordion ScrollTrigger={ScrollTrigger} title="EARN & WIN FROM MAKING MEMES" >
+Join 1 of the many me me collab contests, or submit a meme to you favorite collections group, every time someone mints a meme you earn ETH!
   </Accordion>
 </Box>
     </Container>
