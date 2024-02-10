@@ -1,4 +1,4 @@
-get import React from 'react'
+import React from 'react'
 import styled from 'styled-components'
 
 import img1 from '../assets/Nfts/meme-8.svg';
