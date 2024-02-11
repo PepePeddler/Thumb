@@ -4,7 +4,6 @@ import styled, { keyframes } from 'styled-components'
 // import TypeWriterText from '../TypeWriterText'
 import RoundTextBlack from '../../assets/Rounded-Text-Black.png';
 import Loading from '../Loading';
-import Roadmap from './Roadmap';
 
 const CoverVideo = lazy(() => import('../CoverVideo'));
 const TypeWriterText = lazy(() => import('../TypeWriterText'));
